@@ -11,8 +11,6 @@ local list = {
     
     [8737899170] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/PS99.lua',true))()",
     
-    [18901165922] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/PetsGo.lua',true))()",
-    
     [8737602449] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/PlsDonate.lua',true))()"
 }
 
