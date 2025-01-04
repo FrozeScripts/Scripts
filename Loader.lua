@@ -1,16 +1,17 @@
 local list = {
+    -- Blox Fruits
     [2753915549] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/BloxFruit.lua',true))()",
-    
+    -- Blox Fruits
     [4442272183] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/BloxFruit.lua',true))()",
-    
+    -- Blox Fruits
     [7449423635] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/BloxFruit.lua',true))()",
-    
+    -- Fisch
     [16732694052] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/Fisch.lua',true))()",
-
+    -- MM2
     [142823291] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/MM2.lua',true))()",
-    
+    -- PS99
     [8737899170] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/PS99.lua',true))()",
-    
+    -- PlsDonate
     [8737602449] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/FrozeScripts/Scripts/refs/heads/main/PlsDonate.lua',true))()"
 }
 
